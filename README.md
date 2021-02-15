@@ -32,4 +32,4 @@ This repository has the following directory structure:
 ```utils``` | Utility functions that are written by Ross, and which we'll use in class.
 
 ## Acknowledgements
-Credits for the original repository from which this repository was forked and further develope goes to [Ross Deans Kristensen-McLachlan](https://pure.au.dk/portal/en/persons/ross-deans-kristensenmclachlan(29ad140e-0785-4e07-bdc1-8af12f15856c).html).
+Credits for the repository structure goes to [Ross Deans Kristensen-McLachlan](https://pure.au.dk/portal/en/persons/ross-deans-kristensenmclachlan(29ad140e-0785-4e07-bdc1-8af12f15856c).html).
