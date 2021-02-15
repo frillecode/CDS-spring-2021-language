@@ -20,6 +20,6 @@ $ bash ./create_frille-lang_venv.sh
 __Running scripts__  
 After updating the repo (see above), you can run the .py-files from the command-line by writing the following:
 ``` bash
-$ cd CDS-spring-2021-language
-$ python3 src/{filename].py
+$ cd CDS-spring-2021-language/src
+$ python3 {filename].py
 ```
