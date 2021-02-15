@@ -1,3 +1,4 @@
+### Weekly assignments
 Each week I will upload my answers to the given assignments here under the following names:
 - W1: _word\_counts.ipynb_  
 - W2: _collocation.py_  
