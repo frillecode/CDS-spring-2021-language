@@ -4,18 +4,16 @@ This is my personal repository with code and data related to the Spring 2021 mod
 This repository is in active development, with new material being pushed on a weekly basis. 
 
 ## Technicalities
-Each week I will upload my answers to the given assignment. These can be found in the folder, _src_, under the following names:
-- W1: _word\_counts.ipynb_  
-- W2: _collocation.py_  
+Each week I will upload my answers to the given assignment. These can be found in the folder, _src_, along with a description of how to run them. 
 
-To run the scripts, I recommend cloning this repository and installing relevant dependencies in a virtual ennvironment:
+To run scripts within this repository, I recommend cloning the repository and installing relevant dependencies in a virtual ennvironment:
 
 ```bash
 git clone https://github.com/frillecode/CDS-spring-2021-language.git
 cd CDS-spring-2021-language
 bash ./create_frille-lang_venv.sh
 ```
-From then on, make sure to update the repository and install any new dependencies:
+From then on, every time you use it, make sure to update the repository and install any new dependencies:
 ```bash
 cd CDS-spring-2021-language
 git pull origin main
