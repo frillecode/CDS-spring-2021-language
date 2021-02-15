@@ -15,6 +15,13 @@ git clone https://github.com/frillecode/CDS-spring-2021-language.git
 cd CDS-spring-2021-language
 bash ./create_frille-lang_venv.sh
 ```
+From then on, make sure to update the repository and install any new dependencies:
+```bash
+cd CDS-spring-2021-language
+git pull origin main
+bash ./create_frille-lang_venv.sh
+```
+
 
 ## Repo structure
 
