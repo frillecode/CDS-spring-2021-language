@@ -1,20 +1,13 @@
 ## Weekly assignments
 Each week I will upload my answers to the given assignments here under the following names:
 - __Assignment 1:__   
-  - Code: 
-    - _word\_counts.ipynb_  
+  - Code: _word\_counts.ipynb_  
 - __Assignment 2:__ 
-  - Code: 
-    - _collocation.py_  
-  - Results: 
-    - _out/collocates.csv_
+  - Code: _collocation.py_  
+  - Results: _out/collocates.csv_
 - __Assignment 3:__ 
-  - Code: 
-    - _sentiment.py_
-  - Results: 
-    - _out/sentiment_7-days.jpg_
-    - _out/sentiment_30-days_
-    - _sentiment_interpretation.txt_
+  - Code: _sentiment.py_
+  - Results: _out/sentiment_7-days.jpg_ , _out/sentiment_30-days.jpg_ , _out/sentiment_interpretation.txt_
 
 ### Cloning repo and installing dependencies 
 To run the scripts, I recommend cloning this repository and installing relevant dependencies in a virtual ennvironment:
