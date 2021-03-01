@@ -1,13 +1,22 @@
-### Weekly assignments
+## Weekly assignments
 Each week I will upload my answers to the given assignments here under the following names:
 - __Assignment 1:__   
-_word\_counts.ipynb_  
-- __W2:__ _collocation.py_  
-- __W4:__ script: _sentiment.py_ ; plots: _sentiment_7-days.jpg_ and _sentiment_30-days_ ; interpretation: _sentiment_interpretation.txt_
+  - Code: 
+    - _word\_counts.ipynb_  
+- __Assignment 2:__ 
+  - Code: 
+    - _collocation.py_  
+  - Results: 
+    - _out/collocates.csv_
+- __Assignment 3:__ 
+  - Code: 
+    - _sentiment.py_
+  - Results: 
+    - _out/sentiment_7-days.jpg_
+    - _out/sentiment_30-days_
+    - _sentiment_interpretation.txt_
 
-The output files from the scripts can be found in the folder _out_.  
-
-__Cloning repo and installing dependencies__  
+### Cloning repo and installing dependencies 
 To run the scripts, I recommend cloning this repository and installing relevant dependencies in a virtual ennvironment:
 
 ```bash
@@ -27,7 +36,7 @@ $ python -m spacy download en_core_web_sm
 $ deactivate
 ```
 
-__Running scripts__  
+### Running scripts
 After updating the repo (see above), you can run the .py-files from the command-line by writing the following:
 ``` bash
 $ cd CDS-spring-2021-language
