@@ -57,7 +57,7 @@ def main():
     in_file = os.path.join("..", "data", "abcnews-date-text.csv")
 
     # Reading in data
-    data = pd.read_csv(in_file)
+    data = pd.read_csv(in_file) 
     data = data.sample(100000)
     
     # Apply function to calculate sentiment scores and add these to data df
