@@ -1,6 +1,7 @@
 ### Weekly assignments
 Each week I will upload my answers to the given assignments here under the following names:
-- __W1:__ _word\_counts.ipynb_  
+- __Assignment 1:__   
+_word\_counts.ipynb_  
 - __W2:__ _collocation.py_  
 - __W4:__ script: _sentiment.py_ ; plots: _sentiment_7-days.jpg_ and _sentiment_30-days_ ; interpretation: _sentiment_interpretation.txt_
 
