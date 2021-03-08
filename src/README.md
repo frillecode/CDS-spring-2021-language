@@ -15,7 +15,7 @@ To run the scripts, I recommend cloning this repository and installing relevant 
 ```bash
 $ git clone https://github.com/frillecode/CDS-spring-2021-language.git
 $ cd CDS-spring-2021-language
-$ bash ./create_frille-lang_venv.sh
+$ bash ./create_venv.sh
 ````
 As there are some issues with installing certain libraries in the virtual environment, these needs to installed manually by running the following in the terminal:  
 ```bash
