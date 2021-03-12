@@ -20,15 +20,11 @@ $ git clone https://github.com/frillecode/CDS-spring-2021-language.git
 $ cd CDS-spring-2021-language
 $ bash ./create_venv.sh
 ````
-As there are some issues with installing certain libraries in the virtual environment, these needs to installed manually by running the following in the terminal:  
+If you run into issues with some libraries/modules not being installed correctly when creating the virtual environment, install these manually by running the following:  
 ```bash
 $ cd CDS-spring-2021-language
 $ source frille-lang/bin/activate
-$ pip install spacy==2.3.5
-$ pip install spacytextblob
-$ pip install pandas
-$ pip install matplotlib
-$ python -m spacy download en_core_web_sm
+$ pip install {module_name}
 $ deactivate
 ```
 
