@@ -89,7 +89,7 @@ def main():
                        window_size = 2)
     
     # Save file
-    outpath = os.path.join("out", "collocates.csv")
+    outpath = os.path.join("out", "assignment2", "collocates.csv")
     df.to_csv(outpath)
     
 # Define behaviour when called from command line

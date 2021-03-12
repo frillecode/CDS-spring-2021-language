@@ -8,4 +8,7 @@ re
 string
 pathlib
 collections
-
+argparse 
+tqdm 
+networkx 
+pygraphviz 

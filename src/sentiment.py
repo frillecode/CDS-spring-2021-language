@@ -47,7 +47,7 @@ def plotting(x, y, windowsize):
     plt.show() 
     
     # save plot as .jpg file
-    plt.savefig(os.path.join("out", f"sentiment_{windowsize}-days.jpg"))
+    plt.savefig(os.path.join("out", "assignment3", f"sentiment_{windowsize}-days.jpg"))
     plt.close()
 
     
