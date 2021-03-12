@@ -7,7 +7,10 @@ Each week I will upload my answers to the given assignments here under the follo
   - Results: _out/assignment2/collocates.csv_
 - __Assignment 3:__ 
   - Code: _sentiment.py_
-  - Results: _out/assignment3/sentiment_7-days.jpg_ , _out/assignment3/sentiment_30-days.jpg_ , _out/assignment3/sentiment_interpretation.txt_
+  - Results: _out/assignment3/sentiment_7-days.jpg_ , _out/assignment3/sentiment_30-days.jpg_ , _out/assignment3/sentiment_interpretation.txt_  
+- __Assignment 4:__
+  - Code: _network.py__  
+  - Results: _out/assignment4/output/centrality.csv_ , _out/assignment4/viz/network.png_  
 
 ### Cloning repo and installing dependencies 
 To run the scripts, I recommend cloning this repository and installing relevant dependencies in a virtual ennvironment:
