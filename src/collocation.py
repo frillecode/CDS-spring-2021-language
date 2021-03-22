@@ -84,7 +84,7 @@ def collocate_function(filepath, keyword, window_size):
 # Define main function
 def main():
     # Run collocate-function (here I use the keyword "father" and a windowsize of 2)
-    df = collocate_function(filepath = os.path.join("..", "data", "100_english_novels", "corpus"), 
+    df = collocate_function(filepath = os.path.join("..", "data", "assignment1+2", "100_english_novels", "corpus"), 
                        keyword = "father", 
                        window_size = 2)
     

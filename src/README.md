@@ -1,16 +1,21 @@
 ## Weekly assignments
 Each week I will upload my answers to the given assignments here under the following names:
-- __Assignment 1:__   
+- __Assignment 1:__  
+  - Data: _../data/assignment1/_  
   - Code: _word\_counts.ipynb_  
-- __Assignment 2:__ 
+  - Results: _out/assignment1/_  
+- __Assignment 2:__  
+  - Data: _../data/assignment2/_  
   - Code: _collocation.py_  
-  - Results: _out/assignment2/collocates.csv_
-- __Assignment 3:__ 
+  - Results: _out/assignment2/
+- __Assignment 3:__  
+  - Data: _../data/assignment3/_  
   - Code: _sentiment.py_
-  - Results: _out/assignment3/sentiment_7-days.jpg_ , _out/assignment3/sentiment_30-days.jpg_ , _out/assignment3/sentiment_interpretation.txt_  
-- __Assignment 4:__
+  - Results: _out/assignment3/_    
+- __Assignment 4:__  
+  - Data: _../data/assignment4/_  
   - Code: _network.py__  
-  - Results: _out/assignment4/output/centrality.csv_ , _out/assignment4/viz/network.png_  
+  - Results: _out/assignment4/_  
 
 ### Cloning repo and installing dependencies 
 To run the scripts, I recommend cloning this repository and installing relevant dependencies in a virtual ennvironment:

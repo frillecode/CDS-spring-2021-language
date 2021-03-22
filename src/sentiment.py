@@ -54,7 +54,7 @@ def plotting(x, y, windowsize):
 # Define main-function
 def main():
     # Specifying filepath
-    in_file = os.path.join("..", "data", "abcnews-date-text.csv")
+    in_file = os.path.join("..", "data", "assignment3", "abcnews-date-text.csv")
 
     # Reading in data
     data = pd.read_csv(in_file) 
