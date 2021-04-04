@@ -1,25 +1,25 @@
 ## Weekly assignments
 Each week I will upload my answers to the given assignments here under the following names:
 - __Assignment 1:__  
-  - Data: _../../data/assignment1/_  
-  - Code: _word\_counts.ipynb_  
-  - Results: _out/_  
+  - Data: _../data/assignment1/_  
+  - Code: _assignment1/word\_counts.ipynb_  
+  - Results: _assignmen11/out/_  
 - __Assignment 2:__  
-  - Data: _../../data/assignment2/_  
-  - Code: _collocation.py_  
-  - Results: _out/_
+  - Data: _../data/assignment2/_  
+  - Code: _assignment2/collocation.py_  
+  - Results: _assignmetn2/out/_
 - __Assignment 3:__  
-  - Data: _../../data/assignment3/_  
-  - Code: _sentiment.py_
-  - Results: _out/_    
+  - Data: _../data/assignment3/_  
+  - Code: _assignment3/sentiment.py_
+  - Results: _assignmetn3/out/_    
 - __Assignment 4:__  
-  - Data: _../../data/assignment4/_  
-  - Code: _network.py_  
-  - Results: _output/_ and  _viz/_  
+  - Data: _../data/assignment4/_  
+  - Code: _assignment4/network.py_  
+  - Results: _assignmetn4/output/_ and  _assignmetn4/viz/_  
 - __Assignment 5:__  
-  - Data: _../../data/assignment5/_  
-  - Code: _LR_philosophicalTexts.py_  
-  - Results: _out/_   
+  - Data: _../data/assignment5/_  
+  - Code: _assignmetn5/LR_philosophicalTexts.py_  
+  - Results: _assignmetn5/out/_   
 
 ### Cloning repo and installing dependencies 
 To run the scripts, I recommend cloning this repository and installing relevant dependencies in a virtual ennvironment:
