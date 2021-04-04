@@ -1,7 +1,7 @@
 # Assignment 3
 The structure of the files belonging to this assignment is as follows:
   - Data: _../../data/assignment5/_  
-  - Code: _LR_philosophicalTexts.py__  
+  - Code: _LR_philosophicalTexts.py_  
   - Results: _out/_   
 
 
