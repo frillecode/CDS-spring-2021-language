@@ -14,11 +14,11 @@ Each week I will upload my answers to the given assignments here under the follo
   - Results: _out/_    
 - __Assignment 4:__  
   - Data: _../../data/assignment4/_  
-  - Code: _network.py__  
+  - Code: _network.py_  
   - Results: _output/_ and  _viz/_  
 - __Assignment 5:__  
   - Data: _../../data/assignment5/_  
-  - Code: _LR_philosophicalTexts.py__  
+  - Code: _LR_philosophicalTexts.py_  
   - Results: _out/_   
 
 ### Cloning repo and installing dependencies 
