@@ -12,3 +12,4 @@ argparse
 tqdm 
 networkx 
 pygraphviz 
+scikit-learn
