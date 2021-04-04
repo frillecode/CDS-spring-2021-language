@@ -1,21 +1,25 @@
 ## Weekly assignments
 Each week I will upload my answers to the given assignments here under the following names:
 - __Assignment 1:__  
-  - Data: _../data/assignment1/_  
+  - Data: _../../data/assignment1/_  
   - Code: _word\_counts.ipynb_  
-  - Results: _out/assignment1/_  
+  - Results: _out/_  
 - __Assignment 2:__  
-  - Data: _../data/assignment2/_  
+  - Data: _../../data/assignment2/_  
   - Code: _collocation.py_  
-  - Results: _out/assignment2/
+  - Results: _out/_
 - __Assignment 3:__  
-  - Data: _../data/assignment3/_  
+  - Data: _../../data/assignment3/_  
   - Code: _sentiment.py_
-  - Results: _out/assignment3/_    
+  - Results: _out/_    
 - __Assignment 4:__  
-  - Data: _../data/assignment4/_  
+  - Data: _../../data/assignment4/_  
   - Code: _network.py__  
-  - Results: _out/assignment4/_  
+  - Results: _output/_ and  _viz/_  
+- __Assignment 5:__  
+  - Data: _../../data/assignment5/_  
+  - Code: _LR_philosophicalTexts.py__  
+  - Results: _out/_   
 
 ### Cloning repo and installing dependencies 
 To run the scripts, I recommend cloning this repository and installing relevant dependencies in a virtual ennvironment:
@@ -38,6 +42,6 @@ After updating the repo (see above), you can run the .py-files from the command-
 ``` bash
 $ cd CDS-spring-2021-language
 $ source frille-lang/bin/activate
-$ cd src
-$ python3 {filename].py
+$ cd src/assignment{number}
+$ python3 {filename}.py
 ```
